@@ -1,10 +1,11 @@
+
 # 📱 Social Media Analytics — Cross-Platform Content Intelligence
 
 > A Power BI analytics project investigating cross-platform social media performance across 5,600 posts on YouTube, TikTok, Instagram, X.com, LinkedIn, and Facebook. Covers engagement patterns, content category effectiveness, post type analysis, regional reach, and organic vs sponsored content performance across 8 global regions in 2024.
 
 ---
 
-
+<img width="3075" height="10626" alt="Social_Media_Analytics_Dashboard" src="https://github.com/user-attachments/assets/9b36de85-bfb0-48ae-b69c-c87132846b20" />
 
 ---
 
